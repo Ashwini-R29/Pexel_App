@@ -21,11 +21,11 @@ The folder structure inside `pexel_app/lib`:
 
 pexel_app/
 └── lib/
-├── dartjson.dart # JSON model for API response
-├── json.json # Sample JSON dataset (for testing/mock)
-├── main.dart # App entry point (UI + routing)
-├── search.dart # Search screen for querying wallpapers
-└── wallpaper.dart # Full-screen wallpaper viewer + download
+├── dartjson.dart
+├── json.json
+├── main.dart
+├── search.dart
+└── wallpaper.dart
 
 
 ---
