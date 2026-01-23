@@ -47,13 +47,14 @@ pexel_app/
 2. Generate an API Key
 3. Add your API key to request headers:
 
-```dart
+
 headers: {
   "Authorization": "<YOUR_PEXELS_API_KEY>"
 }
+---
 
 
-🚀 Getting Started
+## 🚀 Getting Started
 Clone the Repository
 git clone https://github.com/<your_username>/pexel_app.git
 cd pexel_app
@@ -63,6 +64,7 @@ flutter pub get
 
 Run the App
 flutter run
+---
 
 📸 Usage Flow
 
