@@ -51,6 +51,7 @@ pexel_app/
 headers: {
   "Authorization": "<YOUR_PEXELS_API_KEY>"
 }
+
 ---
 
 
