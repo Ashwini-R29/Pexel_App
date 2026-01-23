@@ -21,11 +21,11 @@ The folder structure inside `pexel_app/lib`:
 
 pexel_app/
 └── lib/
-├── dartjson.dart // JSON model for API response
-├── json.json // Sample JSON dataset (for testing/mock)
-├── main.dart // Main entry point (UI + routing)
-├── search.dart // Search screen for querying wallpapers
-├── wallpaper.dart // Full-screen viewer + download
+├── dartjson.dart # JSON model for API response
+├── json.json # Sample JSON dataset (for testing/mock)
+├── main.dart # App entry point (UI + routing)
+├── search.dart # Search screen for querying wallpapers
+└── wallpaper.dart # Full-screen wallpaper viewer + download
 
 
 ---
@@ -64,21 +64,24 @@ flutter pub get
 
 Run the App
 flutter run
+
 ---
 
-📸 Usage Flow
+## 📸 Usage Flow
 
-Open the app
+1.Open the app
 
-Browse trending wallpapers
+2.Browse trending wallpapers
 
-Search wallpapers using keywords (ex: "nature", "anime", "cars")
+3Search wallpapers using keywords (ex: "nature", "anime", "cars")
 
-Tap wallpaper → View full screen
+4.Tap wallpaper → View full screen
 
-Tap Download button to save locally
+5.Tap Download button to save locally
 
-🚧 Future Improvements
+---
+
+## 🚧 Future Improvements
 
 🔹 Favorites / Saved wallpapers
 
@@ -87,3 +90,5 @@ Tap Download button to save locally
 🔹 Infinite scrolling
 
 🔹 Category browsing
+
+---
